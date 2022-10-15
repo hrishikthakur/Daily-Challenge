@@ -1,6 +1,6 @@
 // For a triangle with sides a, b, c
-// such that a ≤ b ≤ c
-// the property a + b > c must hold true
+// Such that a ≤ b ≤ c
+// The property a + b > c must hold true
 
 class Solution {
     public int largestPerimeter(int[] A) {
