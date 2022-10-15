@@ -1,4 +1,4 @@
-// Algo -> Get to the node previous to the middle node and update its' next to next.next
+// Algo -> Get to the node previous to the middle node & then update its' next to next.next
 
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
