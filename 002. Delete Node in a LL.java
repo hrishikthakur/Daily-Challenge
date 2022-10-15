@@ -1,5 +1,5 @@
 // Given -> Node to be deleted
-// Algo -> swap(node, node.next) then update the next of given node
+// Algo -> swap(node, node.next) then update the next of given node to next.next
 class Solution {
     public static void swap(ListNode n1, ListNode n2){
         int temp = n1.val;
